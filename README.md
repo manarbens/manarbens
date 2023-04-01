@@ -1,7 +1,7 @@
 ###
 👋 Hi, I’m Manar Ben Salah
 
-👀 I’m interested in Data Engineering , Analytics Engineering & Big Data
+👀 I’m interested in Data Engineering , Analytics Engineering & Big Data.
 <!--
 **manarbens/manarbens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
