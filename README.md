@@ -1,5 +1,5 @@
 ###
-👋 :tulip: Hi, I’m Manar Ben Salah
+👋 :tulip: Hi, I’m Manar Ben Salah.
 
 👀 :computer:  I’m interested in Data Engineering , Analytics Engineering & Data Architecture.
 <!--
