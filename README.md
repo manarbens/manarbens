@@ -3,6 +3,7 @@
 
 👀 :computer:  I’m interested in Data Engineering , Analytics Engineering & Data Architecture.
 <!--
+
 **manarbens/manarbens** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manar-ben-salah-130811197/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manarbenssssalah)
 
 ![GitHub stars](https://github-readme-stats.vercel.app/api?username=manarbens&theme=radical)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manarbens&theme=radical)
 
